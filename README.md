@@ -7,3 +7,4 @@ Koodiin fuulduraa marsariitichaa madda banaa dha, hiikkaa akka gaariitti gargaar
 * [koodii fuulduraa](https://github.com/xxai-art/web)
 * [Paakkii afaanii akka waliigalaatti marsariitichaaf](https://github.com/xxai-art/web/tree/main/i18n)
 * [Paakkii afaanii moojuulota seensaaf](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Weebsaayitii Dokumantarii Afaanota Hedduu](https://github.com/xxai-doc)
